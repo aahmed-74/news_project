@@ -1,27 +1,27 @@
-News Management System (Native PHP + MySQL)
+### News Management System (Native PHP + MySQL)
 
-A simple and practical news management system built using native PHP and MySQL.
+### A simple and practical news management system built using native PHP and MySQL.
 This project allows administrators to manage news articles and categories with a clean and minimal codebase.
 It follows a single-file CRUD pattern with many-to-many relationships.
 
-Features
+### Features
 
-Create, show, edit, delete categories
+# Create, show, edit, delete categories
 
-Create, show, edit, delete news 
+# Create, show, edit, delete news 
 
-Assign multiple categories to news
+# Assign multiple categories to news
 
-View details of each news
+# View details of each news
 
-Simple, flat PHP structure
+# Simple, flat PHP structure
 
-Uses PDO for database interaction
+# Uses PDO for database interaction
 
-Requirements
+### Requirements
 
-PHP 7.x or 8.x
+# PHP 7.x or 8.x
 
-MySQL
+# MySQL
 
-Apache/Nginx
+# Apache/Nginx
